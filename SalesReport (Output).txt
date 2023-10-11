@@ -1,0 +1,89 @@
+ 
+  ----jGRASP exec: java SalesReport
+ Enter the filename: SalesFigures.txt
+ 
+    53.80    84.13    78.86    15.27    92.36    48.40    20.58    73.14    30.59    32.15    29.79    65.23 
+    75.76    52.85    84.65    65.93    35.67    16.77    82.06    48.37    28.38    82.87    67.61    39.69 
+    76.74    94.58    96.59    76.06    10.96    27.75    45.41    25.72    20.50    50.52    75.02    22.34 
+    67.85    15.65    33.11    52.34     9.15    70.11    69.62    78.60    60.48    35.85    69.26    53.46 
+    78.91    17.97    37.49    41.58    18.41    81.21     9.76    43.34    88.98    67.54    10.52    71.37 
+    26.32    20.87    19.36    83.69     3.64     7.66     6.08    16.58    19.48    14.44     4.38    61.09 
+    23.81    17.16    48.31    29.52    50.68    33.41    78.92    13.52    10.61    88.36    39.04    44.68 
+    58.11    48.03    13.87    29.67    90.64    99.28    41.91    47.42    54.24    85.02    16.33    63.69 
+    27.74    35.14    20.54    39.55    32.95    69.10    93.03    84.65    71.08    84.31    96.84    33.63 
+    17.25    86.07    76.31     4.62    14.28    59.34    20.48    32.27    94.69    30.52    16.03    54.81 
+ 
+ 
+ The total sales for the year is $5714.71 million.
+ The average sales for the year is $47.62 million.
+ 
+ 
+ The total sales for each division: 
+ 
+ The total sales for Division 1 is $624.30 million.
+ The total sales for Division 2 is $1304.91 million.
+ The total sales for Division 3 is $1927.10 million.
+ The total sales for Division 4 is $2542.58 million.
+ The total sales for Division 5 is $3109.66 million.
+ The total sales for Division 6 is $3393.25 million.
+ The total sales for Division 7 is $3871.27 million.
+ The total sales for Division 8 is $4519.48 million.
+ The total sales for Division 9 is $5208.04 million.
+ The total sales for Division 10 is $5714.71 million.
+ 
+ 
+ The total sales for each month: 
+ 
+ The total sales for January is $506.29 million.
+ The total sales for February is $472.45 million.
+ The total sales for March is $509.09 million.
+ The total sales for April is $438.23 million.
+ The total sales for May is $358.74 million.
+ The total sales for June is $513.03 million.
+ The total sales for July is $467.85 million.
+ The total sales for August is $463.61 million.
+ The total sales for September is $479.03 million.
+ The total sales for October is $571.58 million.
+ The total sales for Novermber is $424.82 million.
+ The total sales for December is $509.99 million.
+ 
+ 
+ The average sales for each division: 
+ 
+ The average sales for division 1 is $61.43 million.
+ The average sales for division 2 is $129.49 million.
+ The average sales for division 3 is $191.71 million.
+ The average sales for division 4 is $253.26 million.
+ The average sales for division 5 is $309.97 million.
+ The average sales for division 6 is $338.32 million.
+ The average sales for division 7 is $386.13 million.
+ The average sales for division 8 is $450.95 million.
+ The average sales for division 9 is $519.80 million.
+ The average sales for division 10 is $570.47 million.
+ 
+ 
+ The average sales for each month: 
+ 
+ The average sales for January is $42.19 million.
+ The average sales for February is $39.37 million.
+ The average sales for March is $42.42 million.
+ The average sales for April is $36.52 million.
+ The average sales for May is $29.89 million.
+ The average sales for June is $42.75 million.
+ The average sales for July is $38.99 million.
+ The average sales for August is $38.63 million.
+ The average sales for September is $39.92 million.
+ The average sales for October is $47.63 million.
+ The average sales for Novermber is $35.40 million.
+ The average sales for December is $42.50 million.
+ 
+ The divisions with the highest and lowest sales for the year:
+ Highest sales for the year is in Division 7.
+ Lowest sales for the year is in Division 5.
+ 
+ The months with the highest and lowest sales for the year:
+ The month of June has the highest sales.
+ The month of May has the lowest sales.
+ 
+  ----jGRASP: operation complete.
+ 
